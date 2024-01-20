@@ -5,3 +5,9 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+
+- Learn how to build a speech recognition app that you can give commands using the power of VUE JS, Vite and the JavaScript Speech Recognition API.
+
+Source code: https://github.com/TylerPottsDev/yt-vue-voice-recognition 
+
+Subscribe: https://www.youtube.com/c/TylerPotts/featured
